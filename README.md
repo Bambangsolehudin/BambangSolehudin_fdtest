@@ -1,7 +1,9 @@
 - buat file dengan nama .env di root project
 - copy isi dari file .env.example ke file .env
 - Buat database dengan nama laravel
+- import bambangSolehudin.fdtest
 - jalankan perintah `composer install` untuk menginstall semua library yang dibutuhkan
 - jalankan perintah `php artisan key:generate` untuk mengenerate key aplikasi
 - jalankan perintah `php artisan migrate` untuk membuat tabel database
 - jalankan perintah `php artisan serve` untuk menjalankan aplikasi
+- login dengan username (login@gmail.com) dan password (login@123)
